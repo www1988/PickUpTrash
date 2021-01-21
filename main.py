@@ -18,3 +18,7 @@ async def index(request):
     """
     print(request.json)
     return text('提交成功')
+
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=8000, debug=False)
