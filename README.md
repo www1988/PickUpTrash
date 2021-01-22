@@ -2,6 +2,12 @@
 ## 垃圾佬闲鱼爬虫、转转爬虫数据整合自用二手急速响应(附源码持续更新)
 
  [Click to jump to the English document](README_EN.md)
+ 
+ 
+ ## 关于使用效果的几张图和视频
+ 
+ 使用python抓取闲鱼的商品爬虫
+ 
 
 ## 相关文章使用方法的链接
 
